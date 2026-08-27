@@ -1336,7 +1336,7 @@ body {
 
    <div class="seccion-regalos reveal">
   
-  <!-- TARJETA 1: REGALOS --><p style="font-size
+  <!-- TARJETA 1: REGALOS --><style="font-size
   <div class="tarjeta-regalo-cafe">
     <h2 class="regalo-cursive-top">Regalo</h2>
     <img src="regalo.png" alt="Regalo" class="icon-regalo-line">
